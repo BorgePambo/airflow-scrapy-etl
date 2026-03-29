@@ -1,6 +1,9 @@
 # 🚗 Scrapy Analytics Pipeline
 
-ETL completo para scraping e análise de veículos seminovos da Movida, utilizando **Airflow**, **Playwright**, **Pandas** e **DuckDB**.
+ETL completo para scraping e análise de veículos seminovos da Movida, 
+utilizando **Airflow**, **Playwright**, **Pandas** e **DuckDB**.
+
+
 <img width="1232" height="620" alt="scrapping_projeto325" src="https://github.com/user-attachments/assets/a1519788-e477-4264-861d-ee371d9ee66c" />
 
 ---
@@ -26,15 +29,15 @@ Este pipeline automatiza a coleta, transformação e carga de dados de veículos
 
 ## 📊 Arquitetura do Pipeline
 
-┌─────────────┐ ┌─────────────┐ ┌─────────────┐
-│ BRONZE │ ──→ │ SILVER │ ──→ │ GOLD │
-│ (JSON) │ │ (CSV) │ │ (Parquet) │
-│ Dados │ │ Dados │ │ Dados │
-│ Brutos │ │ Limpos │ │ Agregados │
-└─────────────┘ └─────────────┘ └─────────────┘
-↑ ↑ ↑
-Playwright Pandas DuckDB
-Scraping Transform Analytics
+    ┌─────────────┐ ┌─────────────┐ ┌─────────────┐
+    │ BRONZE │ ──→ │ SILVER │ ──→ │ GOLD │
+    │ (JSON) │ │ (CSV) │ │ (Parquet) │
+    │ Dados │ │ Dados │ │ Dados │
+    │ Brutos │ │ Limpos │ │ Agregados │
+    └─────────────┘ └─────────────┘ └─────────────┘
+    ↑ ↑ ↑
+    Playwright Pandas DuckDB
+    Scraping Transform Analytics
 
 
 ---
