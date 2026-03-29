@@ -57,6 +57,9 @@ cd scrapy-analytics
 2. Configure as variáveis de ambiente
 docker compose up --build -d
 
+# Verifique se todos os serviços estão "healthy"
+docker compose ps
+
 4. Acesse o Airflow
 URL: http://localhost:8080
 Login: airflow / airflow
