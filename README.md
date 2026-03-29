@@ -99,9 +99,11 @@ Limpeza Automática
 O pipeline limpa automaticamente os dados antigos antes de cada execução, garantindo dados sempre atualizados.
 
 Agendamento
-O DAG está configurado para rodar diariamente (@daily). Altere em docker/dags/scrapy_analytics_pipeline.py:
+O DAG está configurado para rodar diariamente (@daily).
+Altere em docker/dags/scrapy_analytics_pipeline.py:
+```python
 schedule='@daily'  # Ou '@hourly', '@weekly', etc.
-
+```
 
 🛠️ Comandos Úteis
 ```bash
@@ -121,6 +123,13 @@ schedule='@daily'  # Ou '@hourly', '@weekly', etc.
         docker compose down && docker compose build --no-cache && docker compose up -d
 
 
+```
+🤝 Contribuições
+    Pull requests são bem-vindos! Para issues significativas, abra uma discussão primeiro.
+📧 Contato
+    Desenvolvido por: [Seu Nome]
+    GitHub: https://github.com/SEU_USER
+    LinkedIn: [Seu LinkedIn]
 
 
 
