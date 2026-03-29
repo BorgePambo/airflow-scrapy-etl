@@ -65,23 +65,36 @@ Login: airflow / airflow
 Ative o DAG scrapy_analytics_pipeline
 Clique em Trigger
 
+```
 
 📁 Estrutura do Projeto
-scrapy-analytics/
-├── docker/
-│   ├── Dockerfile.airflow      # Imagem customizada com Playwright
-│   ├── docker-compose.yml      # Orquestração dos containers
-│   ├── dags/                   # DAGs do Airflow
-│  
-│   
-│   
-├── scripts/
-│   ├── extract.py              # Scraping com Playwright
-│   ├── transform.py            # Limpeza com Pandas
-│   └── load.py                 # Carga com DuckDB
-├── data/                       # Dados (não versionado)
-│   ├── bronze/                 # JSONs brutos
-│   ├── silver/                 # CSVs limpos
-│   └── gold/                   # DuckDB + Parquet
-├── .gitignore
-└── README.md
+```bash
+    scrapy-analytics/
+    ├── docker/
+    │   ├── Dockerfile.airflow      # Imagem customizada com Playwright
+    │   ├── docker-compose.yml      # Orquestração dos containers
+    │   ├── dags/                   # DAGs do Airflow
+    │  
+    │   
+    │   
+    ├── scripts/
+    │   ├── extract.py              # Scraping com Playwright
+    │   ├── transform.py            # Limpeza com Pandas
+    │   └── load.py                 # Carga com DuckDB
+    ├── data/                       # Dados (não versionado)
+    │   ├── bronze/                 # JSONs brutos
+    │   ├── silver/                 # CSVs limpos
+    │   └── gold/                   # DuckDB + Parquet
+    ├── .gitignore
+    └── README.md
+```
+
+⚙️ Configurações
+Batch Size
+Edite em scripts/extract.py:
+    BATCH_SIZE = 100  # Carros por arquivo JSON
+
+Limpeza Automática
+O pipeline limpa automaticamente os dados antigos antes de cada execução, garantindo dados sempre atualizados.
+
+
