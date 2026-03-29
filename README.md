@@ -68,7 +68,7 @@ Clique em Trigger
 ```
 
 📁 Estrutura do Projeto
-```bash
+```python
     scrapy-analytics/
     ├── docker/
     │   ├── Dockerfile.airflow      # Imagem customizada com Playwright
@@ -94,7 +94,34 @@ Batch Size
 Edite em scripts/extract.py:
     BATCH_SIZE = 100  # Carros por arquivo JSON
 
+
 Limpeza Automática
 O pipeline limpa automaticamente os dados antigos antes de cada execução, garantindo dados sempre atualizados.
+
+Agendamento
+O DAG está configurado para rodar diariamente (@daily). Altere em docker/dags/scrapy_analytics_pipeline.py:
+schedule='@daily'  # Ou '@hourly', '@weekly', etc.
+
+
+🛠️ Comandos Úteis
+```bash
+        # Ver logs em tempo real
+        docker compose logs -f airflow-worker
+        
+        # Ver arquivos gerados
+        docker compose exec airflow-worker ls -lh /opt/airflow/data/bronze/
+        
+        # Consultar DuckDB
+        docker compose exec airflow-worker duckdb /opt/airflow/data/gold/cars_analytics.duckdb
+        
+        # Parar tudo
+        docker compose down
+        
+        # Rebuild completo
+        docker compose down && docker compose build --no-cache && docker compose up -d
+
+
+
+
 
 
