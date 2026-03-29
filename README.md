@@ -131,6 +131,7 @@ schedule='@daily'  # Ou '@hourly', '@weekly', etc.
 
 ---
 📧 Contato
+
     Desenvolvido por: Borge Bastos Pambo
     GitHub: https://github.com/BorgePambo?tab=repositories
     LinkedIn: https://www.linkedin.com/in/pambo-borge-9b7a9a205/
