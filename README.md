@@ -127,7 +127,9 @@ schedule='@daily'  # Ou '@hourly', '@weekly', etc.
 🤝 Contribuições
     Pull requests são bem-vindos! Para issues significativas, abra uma discussão primeiro.
 
-    
+
+
+---
 📧 Contato
     Desenvolvido por: Borge Bastos Pambo
     GitHub: https://github.com/BorgePambo?tab=repositories
