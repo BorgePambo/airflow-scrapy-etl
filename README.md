@@ -126,10 +126,12 @@ schedule='@daily'  # Ou '@hourly', '@weekly', etc.
 ```
 🤝 Contribuições
     Pull requests são bem-vindos! Para issues significativas, abra uma discussão primeiro.
+
+    
 📧 Contato
-    Desenvolvido por: [Seu Nome]
-    GitHub: https://github.com/SEU_USER
-    LinkedIn: [Seu LinkedIn]
+    Desenvolvido por: Borge Bastos Pambo
+    GitHub: https://github.com/BorgePambo?tab=repositories
+    LinkedIn: https://www.linkedin.com/in/pambo-borge-9b7a9a205/
 
 
 
