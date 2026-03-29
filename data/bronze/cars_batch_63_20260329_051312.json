@@ -1,0 +1,902 @@
+[
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1234345",
+        "title": "Hyundai Creta",
+        "version": "Comfort Plus 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 45.919 KM • Feira de Santana, BA",
+        "old_price": null,
+        "new_price": "R$ 128.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.900*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Fiat/Toro/990548",
+        "title": "Fiat Toro",
+        "version": "Freedom 1.3 T270 4x2 Flex Aut.",
+        "details": "2023/2024 • 76.256 KM • Auto Shopping Raposo, SP",
+        "old_price": null,
+        "new_price": "R$ 128.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.900*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262290",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 34.027 KM • Rio de Janeiro Barra da Tijuca, RJ",
+        "old_price": null,
+        "new_price": "R$ 128.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.900*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1257696",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2025/2026 • 19.616 KM • Niterói, RJ",
+        "old_price": null,
+        "new_price": "R$ 128.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.901*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1257274",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2025/2026 • 28.484 KM • Betim, MG",
+        "old_price": null,
+        "new_price": "R$ 128.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.901*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1257562",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2025/2026 • 18.997 KM • Curitiba Mario Tourinho, PR",
+        "old_price": null,
+        "new_price": "R$ 128.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.901*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1177133",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 32.250 KM • João Pessoa Brisamar, PB",
+        "old_price": null,
+        "new_price": "R$ 128.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.903*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1196477",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 43.130 KM • Caxias do Sul, RS",
+        "old_price": null,
+        "new_price": "R$ 128.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.903*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/972676",
+        "title": "Jeep Renegade",
+        "version": "S T270 1.3 Tb 4x4 Flex Aut.",
+        "details": "2023/2024 • 54.941 KM • Belo Horizonte Raja, MG",
+        "old_price": null,
+        "new_price": "R$ 128.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.903*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1123860",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 42.475 KM • São Leopoldo, RS",
+        "old_price": null,
+        "new_price": "R$ 128.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.903*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1219678",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 48.708 KM • Rio de Janeiro Av. das Américas, RJ",
+        "old_price": null,
+        "new_price": "R$ 128.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.903*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Minivan/Chevrolet/Spin/1222357",
+        "title": "Chevrolet Spin",
+        "version": "Premier 1.8 8v Econo.flex 5p Aut.",
+        "details": "2024/2025 • 54.058 KM • Recife Espinheiro, PE",
+        "old_price": null,
+        "new_price": "R$ 128.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.905*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Minivan/Chevrolet/Spin/1222252",
+        "title": "Chevrolet Spin",
+        "version": "Premier 1.8 8v Econo.flex 5p Aut.",
+        "details": "2024/2025 • 56.234 KM • Recife Espinheiro, PE",
+        "old_price": null,
+        "new_price": "R$ 128.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.905*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1246282",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2025/2025 • 22.783 KM • Rio de Janeiro Recreio dos Bandeirantes, RJ",
+        "old_price": null,
+        "new_price": "R$ 128.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.908*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1133937",
+        "title": "Hyundai Creta",
+        "version": "Limit. Safety 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 51.150 KM • Auto Shopping Natal, RN",
+        "old_price": null,
+        "new_price": "R$ 128.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.908*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/843909",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2022/2022 • 56.745 KM • Rio de Janeiro Duque de Caxias, RJ",
+        "old_price": null,
+        "new_price": "R$ 129.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.910*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1240935",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2025 • 18.983 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 129.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.910*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/843928",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2022/2022 • 30.631 KM • Juiz de Fora, MG",
+        "old_price": null,
+        "new_price": "R$ 129.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.911*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Chevrolet/Tracker/1217907",
+        "title": "Chevrolet Tracker",
+        "version": "Ltz 1.0 Turbo 12v Flex Aut.",
+        "details": "2024/2025 • 19.308 KM • Osasco, SP",
+        "old_price": null,
+        "new_price": "R$ 129.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.911*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1131063",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 47.525 KM • Ribeirão Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 129.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.913*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/935772",
+        "title": "Volkswagen T-Cross",
+        "version": "Hig. 250 Tsi 1.4 Flex 16v 5p Aut",
+        "details": "2023/2023 • 44.000 KM • São Paulo Vila Ema, SP",
+        "old_price": null,
+        "new_price": "R$ 129.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.913*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1197343",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 42.792 KM • Mogi das Cruzes, SP",
+        "old_price": null,
+        "new_price": "R$ 129.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.913*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1240266",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 32.420 KM • Recife Caxangá, PE",
+        "old_price": null,
+        "new_price": "R$ 129.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.914*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Fiat/Toro/924969",
+        "title": "Fiat Toro",
+        "version": "Volcano 2.0 16v 4x4 Tb Diesel Aut.",
+        "details": "2022/2022 • 34.553 KM • Jundiaí, SP",
+        "old_price": null,
+        "new_price": "R$ 129.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.914*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/1249084",
+        "title": "Jeep Renegade",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2025/2025 • 29.569 KM • São Paulo Vila Ema, SP",
+        "old_price": null,
+        "new_price": "R$ 129.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.914*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1001072",
+        "title": "Volkswagen T-Cross",
+        "version": "Hig. 250 Tsi 1.4 Flex 16v 5p Aut",
+        "details": "2023/2024 • 63.843 KM • São José dos Campos, SP",
+        "old_price": null,
+        "new_price": "R$ 129.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.916*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1261131",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 31.710 KM • São José, SC",
+        "old_price": null,
+        "new_price": "R$ 129.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.917*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1173748",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2024/2025 • 71.721 KM • Curitiba Mario Tourinho, PR",
+        "old_price": null,
+        "new_price": "R$ 129.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.920*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1203281",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 40.975 KM • São Leopoldo, RS",
+        "old_price": null,
+        "new_price": "R$ 129.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.922*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1134946",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 36.163 KM • Salvador Paralela, BA",
+        "old_price": null,
+        "new_price": "R$ 129.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.922*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1235117",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 38.130 KM • Porto Alegre Ipiranga, RS",
+        "old_price": null,
+        "new_price": "R$ 129.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.922*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/937654",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2023 • 83.600 KM • São Bernardo do Campo, SP",
+        "old_price": null,
+        "new_price": "R$ 130.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.928*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1234464",
+        "title": "Hyundai Creta",
+        "version": "Comfort Plus 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 29.349 KM • Londrina, PR",
+        "old_price": null,
+        "new_price": "R$ 130.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.928*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/937655",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2023 • 80.892 KM • São Paulo São Miguel, SP",
+        "old_price": null,
+        "new_price": "R$ 130.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.928*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1234372",
+        "title": "Hyundai Creta",
+        "version": "Comfort Plus 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 37.673 KM • São José do Rio Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 130.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.928*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/843949",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2022/2022 • 49.959 KM • Rio de Janeiro Vila Valqueire, RJ",
+        "old_price": null,
+        "new_price": "R$ 130.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.929*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/843941",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2022/2022 • 44.609 KM • Rio de Janeiro Recreio dos Bandeirantes, RJ",
+        "old_price": null,
+        "new_price": "R$ 130.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.929*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/843930",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2022/2022 • 46.483 KM • Nova Iguaçu, RJ",
+        "old_price": null,
+        "new_price": "R$ 130.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.929*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Mitsubishi/L200/943224",
+        "title": "Mitsubishi L200",
+        "version": "Triton Gl 2.4 Diesel 4x4 Mt",
+        "details": "2023/2024 • 84.575 KM • Joinville, SC",
+        "old_price": null,
+        "new_price": "R$ 130.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.931*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1141352",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2024/2025 • 66.350 KM • Auto Shopping Show Auto Mall, MG",
+        "old_price": null,
+        "new_price": "R$ 130.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.934*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/924068",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2022/2023 • 60.516 KM • Auto Shopping Shopping Car, RJ",
+        "old_price": null,
+        "new_price": "R$ 130.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.937*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1219672",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 17.356 KM • Nova Iguaçu, RJ",
+        "old_price": null,
+        "new_price": "R$ 131.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.940*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1204899",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 26.578 KM • Nova Iguaçu, RJ",
+        "old_price": null,
+        "new_price": "R$ 131.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.940*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Minivan/Chevrolet/Spin/1222546",
+        "title": "Chevrolet Spin",
+        "version": "Premier 1.8 8v Econo.flex 5p Aut.",
+        "details": "2024/2025 • 32.452 KM • Auto Shopping Campina, PB",
+        "old_price": null,
+        "new_price": "R$ 131.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.942*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1265075",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2025/2026 • 47.493 KM • São Bernardo Pereira Barreto, SP",
+        "old_price": null,
+        "new_price": "R$ 131.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.944*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1265192",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2025/2026 • 40.502 KM • Suzano, SP",
+        "old_price": null,
+        "new_price": "R$ 131.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.944*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1265094",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2025/2026 • 40.921 KM • São Bernardo do Campo, SP",
+        "old_price": null,
+        "new_price": "R$ 131.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.944*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1240714",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 21.552 KM • Taubaté, SP",
+        "old_price": null,
+        "new_price": "R$ 131.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.947*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1240691",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 24.620 KM • Belém Senador, PA",
+        "old_price": null,
+        "new_price": "R$ 131.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.947*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1141363",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2024/2025 • 66.422 KM • Vila Velha, ES",
+        "old_price": null,
+        "new_price": "R$ 131.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.947*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1234402",
+        "title": "Hyundai Creta",
+        "version": "Comfort Plus 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 35.617 KM • Rio de Janeiro Tijuca, RJ",
+        "old_price": null,
+        "new_price": "R$ 131.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.947*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1246847",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2025/2025 • 61.477 KM • Porto Alegre Sarandi, RS",
+        "old_price": null,
+        "new_price": "R$ 131.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.947*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1260982",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 25.281 KM • São Paulo Miguel Estefano, SP",
+        "old_price": null,
+        "new_price": "R$ 131.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.947*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1234390",
+        "title": "Hyundai Creta",
+        "version": "Comfort Plus 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 37.826 KM • Feira de Santana, BA",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262321",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 36.959 KM • Santos, SP",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262390",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 37.243 KM • Santos, SP",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262395",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 39.533 KM • São Bernardo Pereira Barreto, SP",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1240655",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 36.228 KM • São Paulo São Miguel, SP",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262336",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 38.419 KM • Suzano, SP",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262312",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 37.853 KM • Suzano, SP",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/843923",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2022/2022 • 39.694 KM • Niterói, RJ",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262312",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 37.853 KM • Suzano, SP",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1234352",
+        "title": "Hyundai Creta",
+        "version": "Comfort Plus 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 34.745 KM • Auto Shopping Lauro de Freitas, BA",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262402",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 36.263 KM • São José do Rio Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262428",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 35.143 KM • São Paulo Santana, SP",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262398",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 30.500 KM • São Carlos, SP",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1234390",
+        "title": "Hyundai Creta",
+        "version": "Comfort Plus 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 37.826 KM • Feira de Santana, BA",
+        "old_price": null,
+        "new_price": "R$ 131.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.948*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Caoa Chery/Tiggo 8/745091",
+        "title": "Caoa Chery Tiggo 8",
+        "version": "Txs 1.6 16v Tgdi Aut.",
+        "details": "2021/2022 • 46.212 KM • Limeira, SP",
+        "old_price": null,
+        "new_price": "R$ 131.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.950*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1240729",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2024/2025 • 27.556 KM • Maceió, AL",
+        "old_price": null,
+        "new_price": "R$ 131.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.951*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/1152385",
+        "title": "Jeep Renegade",
+        "version": "Trailhawk T270 1.3 Tb Flex Aut.",
+        "details": "2024/2024 • 45.079 KM • Contagem Babita Camargo, MG",
+        "old_price": null,
+        "new_price": "R$ 131.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.951*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/1067160",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2024 • 70.073 KM • Goiânia Mutirão, GO",
+        "old_price": null,
+        "new_price": "R$ 131.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.951*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1141351",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2024/2025 • 62.273 KM • Belo Horizonte Cristiano Machado, MG",
+        "old_price": null,
+        "new_price": "R$ 131.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.953*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Chevrolet/Tracker/1120269",
+        "title": "Chevrolet Tracker",
+        "version": "Premier 1.2 Turbo 12v Flex Aut.",
+        "details": "2024/2025 • 34.751 KM • Fortaleza Av. Santos Dumont, CE",
+        "old_price": null,
+        "new_price": "R$ 131.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.953*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Fiat/Toro/1041354",
+        "title": "Fiat Toro",
+        "version": "Freedom 1.3 T270 4x2 Flex Aut.",
+        "details": "2023/2024 • 49.898 KM • Rio de Janeiro Vila Valqueire, RJ",
+        "old_price": null,
+        "new_price": "R$ 132.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.959*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/1078564",
+        "title": "Jeep Renegade",
+        "version": "S T270 1.3 Tb 4x4 Flex Aut.",
+        "details": "2024/2024 • 37.568 KM • Jundiaí, SP",
+        "old_price": null,
+        "new_price": "R$ 132.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.960*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/970198",
+        "title": "Jeep Renegade",
+        "version": "S T270 1.3 Tb 4x4 Flex Aut.",
+        "details": "2023/2024 • 45.445 KM • Americana, SP",
+        "old_price": null,
+        "new_price": "R$ 132.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.962*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Minivan/Chevrolet/Spin/1222307",
+        "title": "Chevrolet Spin",
+        "version": "Premier 1.8 8v Econo.flex 5p Aut.",
+        "details": "2024/2025 • 37.212 KM • Rio de Janeiro Av. das Américas, RJ",
+        "old_price": null,
+        "new_price": "R$ 132.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.962*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1141405",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2024/2025 • 78.937 KM • São Paulo São Miguel, SP",
+        "old_price": null,
+        "new_price": "R$ 132.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.966*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1261141",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 27.249 KM • São Paulo Vila Ema, SP",
+        "old_price": null,
+        "new_price": "R$ 132.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.968*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/843915",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2022/2022 • 35.809 KM • Rio de Janeiro Vila Valqueire, RJ",
+        "old_price": null,
+        "new_price": "R$ 132.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.968*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/924074",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2022/2023 • 69.922 KM • São Paulo Gastão Vidigal, SP",
+        "old_price": null,
+        "new_price": "R$ 132.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.968*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262386",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 25.650 KM • São Carlos, SP",
+        "old_price": null,
+        "new_price": "R$ 132.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.968*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262373",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 27.790 KM • Santos, SP",
+        "old_price": null,
+        "new_price": "R$ 132.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.968*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262319",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 26.310 KM • Santos, SP",
+        "old_price": null,
+        "new_price": "R$ 132.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.968*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1262389",
+        "title": "Hyundai Creta",
+        "version": "Comfort 1.0 Tb 12v Flex Aut.",
+        "details": "2025/2025 • 26.693 KM • Santos, SP",
+        "old_price": null,
+        "new_price": "R$ 132.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.968*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/889240",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2022/2023 • 64.045 KM • Mogi das Cruzes, SP",
+        "old_price": null,
+        "new_price": "R$ 132.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.968*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/929263",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2023 • 48.273 KM • Brasília SIA, DF",
+        "old_price": null,
+        "new_price": "R$ 132.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.968*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/935566",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2023 • 66.075 KM • Auto Shopping Taubaté, SP",
+        "old_price": null,
+        "new_price": "R$ 132.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.968*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1180971",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2024/2025 • 44.091 KM • São José dos Pinhais, PR",
+        "old_price": null,
+        "new_price": "R$ 133.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.971*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Corolla/1136412",
+        "title": "Toyota Corolla",
+        "version": "Gli 2.0 16v Flex Aut.",
+        "details": "2024/2024 • 21.699 KM • São Bernardo Pereira Barreto, SP",
+        "old_price": null,
+        "new_price": "R$ 133.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.971*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1141602",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2024/2025 • 50.910 KM • Belo Horizonte Raja, MG",
+        "old_price": null,
+        "new_price": "R$ 133.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.974*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1141403",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2024/2025 • 56.233 KM • Blumenau, SC",
+        "old_price": null,
+        "new_price": "R$ 133.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.974*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Taos/1069053",
+        "title": "Volkswagen Taos",
+        "version": "Comfortline 1.4 250 Tsi Flex Aut.",
+        "details": "2023/2023 • 44.777 KM • Campinas Amoreiras, SP",
+        "old_price": null,
+        "new_price": "R$ 133.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.975*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/933214",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2023 • 56.597 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 133.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.977*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Minivan/Chevrolet/Spin/1222490",
+        "title": "Chevrolet Spin",
+        "version": "Premier 1.8 8v Econo.flex 5p Aut.",
+        "details": "2024/2025 • 16.001 KM • João Pessoa Brisamar, PB",
+        "old_price": null,
+        "new_price": "R$ 133.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.981*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1275381",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2025/2026 • 35.553 KM • São Paulo Penha, SP",
+        "old_price": null,
+        "new_price": "R$ 134.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.984*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1274503",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2025/2026 • 33.752 KM • São Paulo São Miguel, SP",
+        "old_price": null,
+        "new_price": "R$ 134.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.984*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Compass/990024",
+        "title": "Jeep Compass",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2024 • 66.077 KM • Auto Shopping Fórmula, MT",
+        "old_price": null,
+        "new_price": "R$ 134.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.984*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Minivan/Chevrolet/Spin/1222496",
+        "title": "Chevrolet Spin",
+        "version": "Premier 1.8 8v Econo.flex 5p Aut.",
+        "details": "2024/2025 • 34.056 KM • Feira de Santana, BA",
+        "old_price": null,
+        "new_price": "R$ 134.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.984*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1141356",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2024/2025 • 60.500 KM • São Paulo Vila Guilherme, SP",
+        "old_price": null,
+        "new_price": "R$ 134.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.985*"
+    }
+]

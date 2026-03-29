@@ -1,0 +1,11 @@
+# Web Scraping
+playwright
+
+# Data
+pandas
+
+# Database
+sqlalchemy
+psycopg2-binary
+duckdb
+

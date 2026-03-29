@@ -1,0 +1,902 @@
+[
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1135123",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 70.739 KM • Bauru, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1148941",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 57.577 KM • Goiânia Mutirão, GO",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1178308",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 56.951 KM • Belo Horizonte Carlos Luz, MG",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1160736",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 69.302 KM • São Paulo Miguel Estefano, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1159821",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 78.208 KM • Auto Shopping Show Auto Mall, MG",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1160091",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 53.945 KM • São Bernardo Pereira Barreto, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1148230",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 73.264 KM • Belo Horizonte Cristiano Machado, MG",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1148719",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 72.013 KM • Auto Shopping Passeio das Águas, GO",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1161396",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 50.309 KM • Canoas, RS",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1148530",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 62.845 KM • Porto Alegre Ipiranga, RS",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1161943",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 51.905 KM • São Paulo Eliseu de Almeida, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1178437",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 54.220 KM • Guarulhos Timoteo Penteado, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1160871",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 58.286 KM • Piracicaba, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1148190",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 61.742 KM • Guarulhos Timoteo Penteado, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1180427",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 50.595 KM • Santos, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/984065",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2023/2024 • 55.587 KM • São Paulo Penha, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1036099",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2023/2024 • 63.473 KM • São Bernardo do Campo, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1177517",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 57.734 KM • Santos, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1142624",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 67.051 KM • São Paulo Radial Leste, SP",
+        "old_price": "R$ 109.990",
+        "new_price": "102.990",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1228463",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 38.106 KM • Mogi das Cruzes, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/974898",
+        "title": "Volkswagen Polo",
+        "version": "Highline Tsi 1.0 Flex 12v Aut.",
+        "details": "2023/2024 • 46.704 KM • São Paulo Itaim Paulista, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1226521",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 32.453 KM • Rio de Janeiro Intendente Magalhães, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1217979",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 37.771 KM • São Paulo Miguel Estefano, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1202787",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 36.201 KM • Suzano, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1237974",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 36.009 KM • Limeira, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Nissan/Versa/975563",
+        "title": "Nissan Versa",
+        "version": "Advance 1.6 16v Flex Aut.",
+        "details": "2023/2024 • 33.957 KM • João Pessoa Brisamar, PB",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1227029",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 35.038 KM • Auto Shopping Taubaté, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1211461",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 35.882 KM • Rio de Janeiro Duque de Caxias, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Volkswagen/Virtus/1191644",
+        "title": "Volkswagen Virtus",
+        "version": "Tsi 1.0 Flex 12v 4p Aut.",
+        "details": "2024/2025 • 57.270 KM • Serra, ES",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1235990",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 30.963 KM • Santos, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1239937",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 35.269 KM • Campinas Orosimbo, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1199137",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 28.564 KM • Bauru, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1246681",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2025/2025 • 37.000 KM • Porto Alegre Sarandi, RS",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1238732",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 30.672 KM • Campinas Shopping Dom Pedro, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Fiat/Cronos/1248567",
+        "title": "Fiat Cronos",
+        "version": "Drive 1.3 8v Flex Aut.",
+        "details": "2025/2025 • 18.031 KM • Aparecida de Goiânia, GO",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Fiat/Pulse/1145525",
+        "title": "Fiat Pulse",
+        "version": "Drive 1.3 8v Flex Aut.",
+        "details": "2024/2025 • 36.283 KM • Natal, RN",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1149184",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 31.298 KM • Sorocaba, SP",
+        "old_price": null,
+        "new_price": "R$ 103.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.525*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Utilitario/Fiat/Fiorino/1169742",
+        "title": "Fiat Fiorino",
+        "version": "Endurance Evo 1.4 Flex 8v 2p",
+        "details": "2024/2025 • 26.953 KM • Rio de Janeiro Vila Valqueire, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.526*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Utilitario/Fiat/Fiorino/1169732",
+        "title": "Fiat Fiorino",
+        "version": "Endurance Evo 1.4 Flex 8v 2p",
+        "details": "2024/2025 • 21.361 KM • Niterói, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.526*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1231927",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 15.048 KM • Belém Marco, PA",
+        "old_price": null,
+        "new_price": "R$ 103.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.526*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Utilitario/Fiat/Fiorino/1169720",
+        "title": "Fiat Fiorino",
+        "version": "Endurance Evo 1.4 Flex 8v 2p",
+        "details": "2024/2025 • 25.510 KM • Rio de Janeiro Duque de Caxias, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.526*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Utilitario/Fiat/Fiorino/1169750",
+        "title": "Fiat Fiorino",
+        "version": "Endurance Evo 1.4 Flex 8v 2p",
+        "details": "2024/2025 • 26.653 KM • Nova Iguaçu, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.526*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Utilitario/Fiat/Fiorino/1169690",
+        "title": "Fiat Fiorino",
+        "version": "Endurance Evo 1.4 Flex 8v 2p",
+        "details": "2024/2025 • 22.821 KM • Rio de Janeiro Vila Valqueire, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.526*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1205240",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 13.910 KM • Teresina, PI",
+        "old_price": null,
+        "new_price": "R$ 103.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.526*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1173024",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 6.609 KM • Belém Marco, PA",
+        "old_price": null,
+        "new_price": "R$ 103.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.526*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/922738",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2022/2023 • 55.297 KM • Salvador Paralela, BA",
+        "old_price": null,
+        "new_price": "R$ 103.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.526*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Nissan/Kicks/978689",
+        "title": "Nissan Kicks",
+        "version": "Sense 1.6 16v Flex Aut.",
+        "details": "2023/2024 • 79.418 KM • Auto Shopping Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 103.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.526*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1173019",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 30.724 KM • Uberlândia, MG",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Yaris/1191647",
+        "title": "Toyota Yaris",
+        "version": "Xl Sedan 1.5 Flex 16v 4p Aut.",
+        "details": "2024/2025 • 23.775 KM • Piracicaba, SP",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1180398",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 34.827 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1208028",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 36.602 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Fiat/Pulse/1052318",
+        "title": "Fiat Pulse",
+        "version": "Audace 1.0 Turbo 200 Flex Aut.",
+        "details": "2023/2024 • 53.875 KM • Sorocaba, SP",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1243489",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2025/2025 • 30.454 KM • Itajaí, SC",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1203402",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 33.067 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1228196",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 37.271 KM • Auto Shopping Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1203397",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 38.627 KM • João Pessoa Brisamar, PB",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1226696",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 24.934 KM • Salvador Paralela, BA",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1217994",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 33.580 KM • Lauro de Freitas, BA",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1239157",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 36.868 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1231676",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 38.477 KM • Lauro de Freitas, BA",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1205224",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 38.936 KM • Juiz de Fora, MG",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1228429",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 39.386 KM • Fortaleza Av. Santos Dumont, CE",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1240056",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 31.346 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1182636",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 32.759 KM • Feira de Santana, BA",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1237785",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 24.027 KM • Feira de Santana, BA",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1203398",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 35.009 KM • Betim, MG",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1208013",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 36.489 KM • João Pessoa Brisamar, PB",
+        "old_price": null,
+        "new_price": "R$ 103.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.528*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Kardian/1101102",
+        "title": "Renault Kardian",
+        "version": "Techno Flex 1.0 Tb 12v 5p Aut.",
+        "details": "2024/2025 • 49.967 KM • São Paulo Radial Leste, SP",
+        "old_price": null,
+        "new_price": "R$ 103.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.529*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Kardian/1102668",
+        "title": "Renault Kardian",
+        "version": "Techno Flex 1.0 Tb 12v 5p Aut.",
+        "details": "2024/2025 • 42.067 KM • Campinas Orosimbo, SP",
+        "old_price": null,
+        "new_price": "R$ 103.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.529*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1159512",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 63.260 KM • Salvador Paralela, BA",
+        "old_price": null,
+        "new_price": "R$ 103.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.531*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Fiat/Strada/907677",
+        "title": "Fiat Strada",
+        "version": "Freedom 1.3 Flex 8v Cd",
+        "details": "2022/2023 • 55.540 KM • Contagem Babita Camargo, MG",
+        "old_price": null,
+        "new_price": "R$ 103.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.531*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1178673",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 69.593 KM • Campo Grande, MS",
+        "old_price": null,
+        "new_price": "R$ 103.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.531*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Hyundai/Creta/1015458",
+        "title": "Hyundai Creta",
+        "version": "Action 1.6 16v Flex Aut.",
+        "details": "2023/2024 • 47.746 KM • Nova Iguaçu, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.531*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Toyota/Yaris/1141307",
+        "title": "Toyota Yaris",
+        "version": "Xl Sedan 1.5 Flex 16v 4p Aut.",
+        "details": "2024/2025 • 17.821 KM • Maceió, AL",
+        "old_price": null,
+        "new_price": "R$ 103.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.532*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1142552",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 62.072 KM • São Paulo Aricanduva, SP",
+        "old_price": null,
+        "new_price": "R$ 103.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.532*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Volkswagen/Virtus/1205148",
+        "title": "Volkswagen Virtus",
+        "version": "Tsi 1.0 Flex 12v 4p Aut.",
+        "details": "2024/2025 • 56.215 KM • Fortaleza Av. Santos Dumont, CE",
+        "old_price": null,
+        "new_price": "R$ 103.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.532*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1142988",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 71.433 KM • Sorocaba Dom Aguirre, SP",
+        "old_price": null,
+        "new_price": "R$ 103.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.532*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1209097",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 69.855 KM • Sorocaba Dom Aguirre, SP",
+        "old_price": null,
+        "new_price": "R$ 103.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.532*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1148584",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 61.607 KM • São Paulo Gastão Vidigal, SP",
+        "old_price": null,
+        "new_price": "R$ 103.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.532*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1228157",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 14.559 KM • Vila Velha, ES",
+        "old_price": null,
+        "new_price": "R$ 103.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.534*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1217992",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 33.231 KM • Londrina, PR",
+        "old_price": null,
+        "new_price": "R$ 103.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.534*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1213667",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 26.404 KM • Serra, ES",
+        "old_price": null,
+        "new_price": "R$ 103.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.534*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1228546",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 24.327 KM • Serra, ES",
+        "old_price": null,
+        "new_price": "R$ 103.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.534*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1211616",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 28.619 KM • Curitiba Mario Tourinho, PR",
+        "old_price": null,
+        "new_price": "R$ 103.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.534*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Volkswagen/Virtus/1197412",
+        "title": "Volkswagen Virtus",
+        "version": "Tsi 1.0 Flex 12v 4p Aut.",
+        "details": "2024/2025 • 44.013 KM • Recife Espinheiro, PE",
+        "old_price": null,
+        "new_price": "R$ 103.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.534*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Volkswagen/Virtus/1181910",
+        "title": "Volkswagen Virtus",
+        "version": "Tsi 1.0 Flex 12v 4p Aut.",
+        "details": "2024/2025 • 44.382 KM • Belém Senador, PA",
+        "old_price": null,
+        "new_price": "R$ 103.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.534*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Fiat/Pulse/1155569",
+        "title": "Fiat Pulse",
+        "version": "Drive 1.3 8v Flex Aut.",
+        "details": "2024/2025 • 33.659 KM • Porto Alegre Sarandi, RS",
+        "old_price": null,
+        "new_price": "R$ 103.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.534*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Fiat/Pulse/1156754",
+        "title": "Fiat Pulse",
+        "version": "Drive 1.3 8v Flex Aut.",
+        "details": "2024/2025 • 37.118 KM • Lauro de Freitas, BA",
+        "old_price": null,
+        "new_price": "R$ 103.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.535*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Fiat/Pulse/1249184",
+        "title": "Fiat Pulse",
+        "version": "Drive 1.3 8v Flex Aut.",
+        "details": "2025/2025 • 39.674 KM • São José dos Pinhais, PR",
+        "old_price": null,
+        "new_price": "R$ 103.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.535*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Utilitario/Fiat/Fiorino/1169762",
+        "title": "Fiat Fiorino",
+        "version": "Endurance Evo 1.4 Flex 8v 2p",
+        "details": "2024/2025 • 18.112 KM • Curitiba Floriano, PR",
+        "old_price": null,
+        "new_price": "R$ 103.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.537*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1148710",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 53.262 KM • São Leopoldo, RS",
+        "old_price": null,
+        "new_price": "R$ 103.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.537*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1002767",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2023/2024 • 65.722 KM • Rio de Janeiro Av. das Américas, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.537*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1170672",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 61.415 KM • Rio de Janeiro Barra da Tijuca, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.537*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1210025",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 73.463 KM • Auto Shopping Shopping Car, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.537*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Chevrolet/Onix Plus/1138391",
+        "title": "Chevrolet Onix Plus",
+        "version": "Onix Sedan Plus Ltz 1.0 12v Tb Flex Aut.",
+        "details": "2024/2025 • 12.330 KM • Auto Shopping Raposo, SP",
+        "old_price": null,
+        "new_price": "R$ 103.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.537*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Utilitario/Fiat/Fiorino/1169688",
+        "title": "Fiat Fiorino",
+        "version": "Endurance Evo 1.4 Flex 8v 2p",
+        "details": "2024/2025 • 16.655 KM • Londrina, PR",
+        "old_price": null,
+        "new_price": "R$ 103.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.537*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1170653",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 52.918 KM • Porto Alegre Ipiranga, RS",
+        "old_price": null,
+        "new_price": "R$ 103.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.537*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/972427",
+        "title": "Volkswagen Nivus",
+        "version": "Comfortline 1.0 200 Tsi Flex Aut.",
+        "details": "2023/2024 • 64.864 KM • Rio de Janeiro Duque de Caxias, RJ",
+        "old_price": null,
+        "new_price": "R$ 103.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.538*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1173011",
+        "title": "Volkswagen Polo",
+        "version": "Comfortline Tsi 1.0 Flex 12v Aut.",
+        "details": "2024/2025 • 23.528 KM • Auto Shopping Autonomistas, SP",
+        "old_price": null,
+        "new_price": "R$ 104.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.540*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Utilitario/Fiat/Fiorino/1177041",
+        "title": "Fiat Fiorino",
+        "version": "Endurance Evo 1.4 Flex 8v 2p",
+        "details": "2024/2025 • 35.198 KM • São Paulo Gastão Vidigal, SP",
+        "old_price": null,
+        "new_price": "R$ 104.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.540*"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1052045",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 42.018 KM • Campinas Orosimbo, SP",
+        "old_price": null,
+        "new_price": "R$ 114.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.691*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/974594",
+        "title": "Jeep Renegade",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2024 • 58.578 KM • Auto Shopping Tamboré, SP",
+        "old_price": null,
+        "new_price": "R$ 114.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.691*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Nissan/Kicks/1203154",
+        "title": "Nissan Kicks",
+        "version": "Sense 1.6 16v Flex Aut.",
+        "details": "2024/2024 • 19.539 KM • Teresina, PI",
+        "old_price": null,
+        "new_price": "R$ 114.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.692*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Volkswagen/Virtus/1120697",
+        "title": "Volkswagen Virtus",
+        "version": "Comfort. 200 Tsi 1.0 Flex 12v Aut",
+        "details": "2024/2025 • 49.308 KM • Salvador Paralela, BA",
+        "old_price": null,
+        "new_price": "R$ 114.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.692*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1240388",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 36.129 KM • Porto Alegre Sarandi, RS",
+        "old_price": null,
+        "new_price": "R$ 114.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.692*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1240364",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 39.254 KM • Porto Alegre Sarandi, RS",
+        "old_price": null,
+        "new_price": "R$ 114.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.692*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1240490",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 31.414 KM • Serra, ES",
+        "old_price": null,
+        "new_price": "R$ 114.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.692*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1240334",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 29.227 KM • São Luís, MA",
+        "old_price": null,
+        "new_price": "R$ 114.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.692*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1240423",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 34.040 KM • Caxias do Sul, RS",
+        "old_price": null,
+        "new_price": "R$ 114.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.692*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1015761",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 48.616 KM • Belém Senador, PA",
+        "old_price": null,
+        "new_price": "R$ 114.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.697*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1005893",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 52.752 KM • Recife Caxangá, PE",
+        "old_price": null,
+        "new_price": "R$ 114.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.698*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/922006",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2022/2023 • 44.000 KM • São Paulo Miguel Estefano, SP",
+        "old_price": null,
+        "new_price": "R$ 114.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.698*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Chevrolet/Tracker/982526",
+        "title": "Chevrolet Tracker",
+        "version": "Lt 1.0 Turbo 12v Flex Aut.",
+        "details": "2023/2024 • 15.000 KM • Auto Shopping Natal, RN",
+        "old_price": null,
+        "new_price": "R$ 114.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.698*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Volkswagen/Virtus/1123984",
+        "title": "Volkswagen Virtus",
+        "version": "Comfort. 200 Tsi 1.0 Flex 12v Aut",
+        "details": "2024/2025 • 57.772 KM • Campinas Amoreiras, SP",
+        "old_price": null,
+        "new_price": "R$ 114.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.700*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1240496",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 29.421 KM • Auto Shopping Rodrigues, BA",
+        "old_price": null,
+        "new_price": "R$ 114.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.701*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1015959",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 32.824 KM • Rio de Janeiro Campo Grande, RJ",
+        "old_price": null,
+        "new_price": "R$ 115.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.703*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1053285",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 42.716 KM • Nova Iguaçu, RJ",
+        "old_price": null,
+        "new_price": "R$ 115.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.703*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1016565",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 39.933 KM • Rio de Janeiro Av. das Américas, RJ",
+        "old_price": null,
+        "new_price": "R$ 115.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.703*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Fiat/Pulse/1243932",
+        "title": "Fiat Pulse",
+        "version": "Audace Turbo 200 Aut. Híbrido",
+        "details": "2025/2025 • 12.578 KM • São Leopoldo, RS",
+        "old_price": null,
+        "new_price": "R$ 115.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.704*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Nissan/Kicks/1239555",
+        "title": "Nissan Kicks",
+        "version": "Sense 1.6 16v Flex Aut.",
+        "details": "2024/2024 • 21.457 KM • Rio de Janeiro Vila Valqueire, RJ",
+        "old_price": null,
+        "new_price": "R$ 115.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.704*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Nissan/Kicks/1095370",
+        "title": "Nissan Kicks",
+        "version": "Sense 1.6 16v Flex Aut.",
+        "details": "2024/2024 • 17.345 KM • Vila Velha, ES",
+        "old_price": null,
+        "new_price": "R$ 115.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.704*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/952339",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 22.597 KM • Fortaleza Av. Santos Dumont, CE",
+        "old_price": null,
+        "new_price": "R$ 115.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.704*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Fiat/Strada/1136808",
+        "title": "Fiat Strada",
+        "version": "Freedom 1.3 Flex 8v Cd",
+        "details": "2024/2024 • 16.716 KM • Santo André, SP",
+        "old_price": null,
+        "new_price": "R$ 115.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.706*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1240532",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 24.318 KM • Natal, RN",
+        "old_price": null,
+        "new_price": "R$ 115.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.706*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1005903",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 41.981 KM • João Pessoa Brisamar, PB",
+        "old_price": null,
+        "new_price": "R$ 115.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.707*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1016587",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 46.622 KM • Fortaleza Av. Santos Dumont, CE",
+        "old_price": null,
+        "new_price": "R$ 115.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.707*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/1072173",
+        "title": "Jeep Renegade",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2024/2024 • 53.573 KM • Campinas Itapura, SP",
+        "old_price": null,
+        "new_price": "R$ 115.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.709*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1240314",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 21.141 KM • Juiz de Fora, MG",
+        "old_price": null,
+        "new_price": "R$ 115.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.709*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1240293",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 22.916 KM • Recife Caxangá, PE",
+        "old_price": null,
+        "new_price": "R$ 115.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.709*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1124642",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2024 • 47.044 KM • Campinas Shopping Dom Pedro, SP",
+        "old_price": null,
+        "new_price": "R$ 115.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.709*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1113357",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2024 • 49.500 KM • Suzano, SP",
+        "old_price": null,
+        "new_price": "R$ 115.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.709*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/978541",
+        "title": "Jeep Renegade",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2024 • 47.300 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 115.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.710*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1097977",
+        "title": "Volkswagen T-Cross",
+        "version": "Comfor. 200 Tsi 1.0 Flex 5p Aut.",
+        "details": "2024/2024 • 66.900 KM • Porto Alegre Sarandi, RS",
+        "old_price": null,
+        "new_price": "R$ 115.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.710*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Chevrolet/Tracker/922060",
+        "title": "Chevrolet Tracker",
+        "version": "Premier 1.2 Turbo 12v Flex Aut.",
+        "details": "2022/2023 • 47.289 KM • São Paulo Eliseu de Almeida, SP",
+        "old_price": null,
+        "new_price": "R$ 115.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.716*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Fiat/Fastback/1067677",
+        "title": "Fiat Fastback",
+        "version": "Audace 1.0 200 T. Flex Aut",
+        "details": "2023/2024 • 47.706 KM • Rio de Janeiro Intendente Magalhães, RJ",
+        "old_price": null,
+        "new_price": "R$ 116.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.717*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Volkswagen/Virtus/1178044",
+        "title": "Volkswagen Virtus",
+        "version": "Comfort. 200 Tsi 1.0 Flex 12v Aut",
+        "details": "2024/2025 • 34.892 KM • Natal, RN",
+        "old_price": null,
+        "new_price": "R$ 116.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.717*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/1078628",
+        "title": "Jeep Renegade",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2024/2024 • 53.384 KM • Caxias do Sul, RS",
+        "old_price": null,
+        "new_price": "R$ 116.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.717*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Fiat/Strada/1254173",
+        "title": "Fiat Strada",
+        "version": "Freedom 1.3 Flex 8v Cd",
+        "details": "2024/2025 • 22.000 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 116.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.720*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Fiat/Pulse/1256645",
+        "title": "Fiat Pulse",
+        "version": "Audace Turbo 200 Aut. Híbrido",
+        "details": "2025/2025 • 10.376 KM • São Paulo Nações Unidas, SP",
+        "old_price": null,
+        "new_price": "R$ 116.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.720*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Fiat/Strada/1254172",
+        "title": "Fiat Strada",
+        "version": "Freedom 1.3 Flex 8v Cd",
+        "details": "2024/2025 • 38.000 KM • Auto Shopping Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 116.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.720*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Nissan/Kicks/1218464",
+        "title": "Nissan Kicks",
+        "version": "Sense 1.6 16v Flex Aut.",
+        "details": "2024/2024 • 11.755 KM • Campinas Itapura, SP",
+        "old_price": null,
+        "new_price": "R$ 116.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.720*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/1152469",
+        "title": "Jeep Renegade",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2024/2024 • 40.729 KM • São José dos Pinhais, PR",
+        "old_price": null,
+        "new_price": "R$ 116.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.722*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1025149",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 43.692 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 116.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.723*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1007261",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 49.493 KM • São José, SC",
+        "old_price": null,
+        "new_price": "R$ 116.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.723*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1004756",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 46.761 KM • Fortaleza Av. Santos Dumont, CE",
+        "old_price": null,
+        "new_price": "R$ 116.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.723*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1016004",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 49.330 KM • Auto Shopping Campina, PB",
+        "old_price": null,
+        "new_price": "R$ 116.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.723*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1015857",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 25.008 KM • Ribeirão Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 116.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.725*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1016250",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 25.000 KM • Juiz de Fora, MG",
+        "old_price": null,
+        "new_price": "R$ 116.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.725*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/998537",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 35.352 KM • São Paulo Miguel Estefano, SP",
+        "old_price": null,
+        "new_price": "R$ 116.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.725*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1015998",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 32.004 KM • Campinas Amoreiras, SP",
+        "old_price": null,
+        "new_price": "R$ 116.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.725*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1004394",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 33.138 KM • Limeira, SP",
+        "old_price": null,
+        "new_price": "R$ 116.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.725*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1163208",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 67.097 KM • Rio de Janeiro Intendente Magalhães, RJ",
+        "old_price": null,
+        "new_price": "R$ 116.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.726*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1240430",
+        "title": "Renault Duster",
+        "version": "Intense Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 24.195 KM • Recife Imbiribeira, PE",
+        "old_price": null,
+        "new_price": "R$ 116.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.726*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1141200",
+        "title": "Volkswagen Nivus",
+        "version": "Highline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 67.566 KM • Caxias do Sul, RS",
+        "old_price": null,
+        "new_price": "R$ 116.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.726*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1130887",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2024 • 37.964 KM • Salvador Paralela, BA",
+        "old_price": null,
+        "new_price": "R$ 116.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.728*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1163259",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 67.120 KM • Ribeirão Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 117.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.732*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1229937",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 58.296 KM • São Paulo Penha, SP",
+        "old_price": null,
+        "new_price": "R$ 117.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.732*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1163130",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 65.766 KM • Jundiaí, SP",
+        "old_price": null,
+        "new_price": "R$ 117.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.732*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1208086",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 76.582 KM • São José do Rio Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 117.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.732*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/1002202",
+        "title": "Jeep Renegade",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2024 • 42.225 KM • São Paulo Vila Carrão, SP",
+        "old_price": null,
+        "new_price": "R$ 117.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.734*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/961938",
+        "title": "Jeep Renegade",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2024 • 32.718 KM • São Paulo Santana, SP",
+        "old_price": null,
+        "new_price": "R$ 117.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.734*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/1067263",
+        "title": "Jeep Renegade",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2023/2024 • 43.193 KM • Limeira, SP",
+        "old_price": null,
+        "new_price": "R$ 117.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.734*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Fiat/Strada/1247543",
+        "title": "Fiat Strada",
+        "version": "Freedom 1.3 Flex 8v Cd",
+        "details": "2025/2025 • 25.522 KM • São Paulo Itaim Paulista, SP",
+        "old_price": null,
+        "new_price": "R$ 117.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.735*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1143871",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 70.800 KM • Curitiba Floriano, PR",
+        "old_price": null,
+        "new_price": "R$ 117.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.735*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1143913",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 64.967 KM • Auto Shopping Fórmula, MT",
+        "old_price": null,
+        "new_price": "R$ 117.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.735*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1149284",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 70.537 KM • Belo Horizonte Raja, MG",
+        "old_price": null,
+        "new_price": "R$ 117.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.735*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/1141239",
+        "title": "Volkswagen Nivus",
+        "version": "Highline 1.0 200 Tsi Flex Aut.",
+        "details": "2024/2024 • 53.995 KM • Caxias do Sul, RS",
+        "old_price": null,
+        "new_price": "R$ 117.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.735*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Fiat/Fastback/1110210",
+        "title": "Fiat Fastback",
+        "version": "Audace 1.0 200 T. Flex Aut",
+        "details": "2024/2024 • 36.612 KM • Belo Horizonte Carlos Luz, MG",
+        "old_price": null,
+        "new_price": "R$ 117.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.735*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1230004",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 50.260 KM • Salvador Paralela, BA",
+        "old_price": null,
+        "new_price": "R$ 117.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.738*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1004382",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 43.251 KM • São José, SC",
+        "old_price": null,
+        "new_price": "R$ 117.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.741*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1114737",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2024 • 43.115 KM • Auto Shopping Blumenau, SC",
+        "old_price": null,
+        "new_price": "R$ 117.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.741*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1007280",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2023/2024 • 48.349 KM • Recife Espinheiro, PE",
+        "old_price": null,
+        "new_price": "R$ 117.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.741*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1144024",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 62.822 KM • Rio de Janeiro Intendente Magalhães, RJ",
+        "old_price": null,
+        "new_price": "R$ 117.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.743*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1163163",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 59.660 KM • Serra, ES",
+        "old_price": null,
+        "new_price": "R$ 117.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.743*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1149302",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 60.955 KM • Serra, ES",
+        "old_price": null,
+        "new_price": "R$ 117.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.743*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1144107",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 61.052 KM • Rio de Janeiro Tijuca, RJ",
+        "old_price": null,
+        "new_price": "R$ 117.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.743*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1144119",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 61.589 KM • Serra, ES",
+        "old_price": null,
+        "new_price": "R$ 117.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.743*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1143883",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 58.273 KM • Rio de Janeiro Tijuca, RJ",
+        "old_price": null,
+        "new_price": "R$ 117.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.744*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1149220",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 70.624 KM • Joinville, SC",
+        "old_price": null,
+        "new_price": "R$ 117.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.744*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/941279",
+        "title": "Volkswagen Nivus",
+        "version": "Highline 1.0 200 Tsi Flex Aut.",
+        "details": "2023/2023 • 68.058 KM • Caxias do Sul, RS",
+        "old_price": null,
+        "new_price": "R$ 118.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.749*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1184145",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 50.117 KM • Belém Marco, PA",
+        "old_price": null,
+        "new_price": "R$ 118.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.749*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1223107",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 51.564 KM • São José do Rio Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 118.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.750*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1143934",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 59.741 KM • Taubaté, SP",
+        "old_price": null,
+        "new_price": "R$ 118.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.750*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1226917",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 57.317 KM • Sorocaba, SP",
+        "old_price": null,
+        "new_price": "R$ 118.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.750*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/Nivus/965377",
+        "title": "Volkswagen Nivus",
+        "version": "Highline 1.0 200 Tsi Flex Aut.",
+        "details": "2023/2024 • 60.904 KM • Curitiba Floriano, PR",
+        "old_price": null,
+        "new_price": "R$ 118.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.750*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1182604",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 54.338 KM • São Bernardo do Campo, SP",
+        "old_price": null,
+        "new_price": "R$ 118.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.750*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1149268",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 55.532 KM • Campinas Shopping Dom Pedro, SP",
+        "old_price": null,
+        "new_price": "R$ 118.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.750*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1211631",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 57.077 KM • Auto Shopping Tamboré, SP",
+        "old_price": null,
+        "new_price": "R$ 118.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.750*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1230471",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 51.997 KM • São Bernardo do Campo, SP",
+        "old_price": null,
+        "new_price": "R$ 118.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.750*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1228242",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 50.789 KM • Indaiatuba, SP",
+        "old_price": null,
+        "new_price": "R$ 118.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.750*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1238563",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 53.558 KM • Auto Shopping Bandeirantes, SP",
+        "old_price": null,
+        "new_price": "R$ 118.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.750*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1184162",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 51.657 KM • Caxias do Sul, RS",
+        "old_price": null,
+        "new_price": "R$ 118.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.752*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Jeep/Renegade/1147848",
+        "title": "Jeep Renegade",
+        "version": "Long. T270 1.3 Tb 4x2 Flex Aut.",
+        "details": "2024/2024 • 38.528 KM • São Paulo Miguel Estefano, SP",
+        "old_price": null,
+        "new_price": "R$ 118.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.752*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1228527",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 57.769 KM • Caxias do Sul, RS",
+        "old_price": null,
+        "new_price": "R$ 118.300",
+        "parcela": "Entrada + parcelas a partir de R$ 1.752*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1224993",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 54.130 KM • Várzea Grande, MT",
+        "old_price": null,
+        "new_price": "R$ 118.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.753*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1230339",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 62.993 KM • Juiz de Fora, MG",
+        "old_price": null,
+        "new_price": "R$ 118.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.753*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1223071",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 52.804 KM • Maringá, PR",
+        "old_price": null,
+        "new_price": "R$ 118.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.753*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1149248",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 52.893 KM • Curitiba Floriano, PR",
+        "old_price": null,
+        "new_price": "R$ 118.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.753*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volkswagen/T-Cross/1184153",
+        "title": "Volkswagen T-Cross",
+        "version": "200 Tsi 1.0 Flex 12v 5p Aut.",
+        "details": "2024/2025 • 62.760 KM • Juiz de Fora, MG",
+        "old_price": null,
+        "new_price": "R$ 118.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.753*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Renault/Duster/1219712",
+        "title": "Renault Duster",
+        "version": "Iconic Plus 1.6 16v Flex Aut.",
+        "details": "2024/2025 • 34.458 KM • Canoas, RS",
+        "old_price": null,
+        "new_price": "R$ 118.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.756*"
+    }
+]

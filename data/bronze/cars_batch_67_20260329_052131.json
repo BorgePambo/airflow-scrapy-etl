@@ -1,0 +1,47 @@
+[
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Audi/Q5/941497",
+        "title": "Audi Q5",
+        "version": "Sb P Black. 2.0 Tfsie S.tr. Qt Hib.",
+        "details": "2023/2023 • 22.510 KM • São Paulo Miguel Estefano, SP",
+        "old_price": null,
+        "new_price": "R$ 338.700",
+        "parcela": "Entrada + parcelas a partir de R$ 5.015*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Audi/Q3/1205231",
+        "title": "Audi Q3",
+        "version": "Perf. Black 2.0 Tfsi Tiptr. Quattro",
+        "details": "2024/2024 • 17.050 KM • São Paulo Nações Unidas, SP",
+        "old_price": null,
+        "new_price": "R$ 341.800",
+        "parcela": "Entrada + parcelas a partir de R$ 5.061*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/SUV/Volvo/Xc 60/960827",
+        "title": "Volvo Xc 60",
+        "version": "T-8 Plus 2.0 Awd Híbrido",
+        "details": "2023/2024 • 57.661 KM • São Paulo Miguel Estefano, SP",
+        "old_price": null,
+        "new_price": "R$ 345.500",
+        "parcela": "Entrada + parcelas a partir de R$ 5.115*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Especial/Mercedes-Benz/Sprinter/1263463",
+        "title": "Mercedes-Benz Sprinter",
+        "version": "Sprin. 517 Van E.l.p.t.a. 21l Die. E6",
+        "details": "2024/2025 • 31.210 KM • Manaus, AM",
+        "old_price": null,
+        "new_price": "R$ 357.200",
+        "parcela": "Entrada + parcelas a partir de R$ 5.289*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Toyota/Rav4/1141108",
+        "title": "Toyota Rav4",
+        "version": "2.5 Xse 4x4 Aut. Híbrido",
+        "details": "2024/2024 • 18.921 KM • Niterói, RJ",
+        "old_price": null,
+        "new_price": "R$ 361.800",
+        "parcela": "Entrada + parcelas a partir de R$ 5.357*"
+    }
+]

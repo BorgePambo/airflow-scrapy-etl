@@ -1,0 +1,902 @@
+[
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Hyundai/Hb20/1146283",
+        "title": "Hyundai Hb20",
+        "version": "Sense Plus 1.0 Flex 12v Mec.",
+        "details": "2024/2025 • 43.709 KM • Várzea Grande, MT",
+        "old_price": null,
+        "new_price": "R$ 70.400",
+        "parcela": "Entrada + parcelas a partir de R$ 1.042*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1193627",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 63.123 KM • Piracicaba, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1164731",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 50.293 KM • Suzano, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Fiat/Argo/1093833",
+        "title": "Fiat Argo",
+        "version": "1.0 6v Flex",
+        "details": "2024/2024 • 39.213 KM • Jundiaí, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Chevrolet/Onix/1041199",
+        "title": "Chevrolet Onix",
+        "version": "Hatch 1.0 12v Flex 5p Mec.",
+        "details": "2023/2024 • 29.078 KM • Recife Espinheiro, PE",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1193503",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 50.434 KM • Taubaté, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Chevrolet/Onix/1070188",
+        "title": "Chevrolet Onix",
+        "version": "Hatch 1.0 12v Flex 5p Mec.",
+        "details": "2024/2024 • 38.682 KM • Recife Espinheiro, PE",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Chevrolet/Onix/851045",
+        "title": "Chevrolet Onix",
+        "version": "Hatch Lt 1.0 12v Flex 5p Mec.",
+        "details": "2022/2023 • 47.252 KM • Taubaté, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1180654",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 64.156 KM • Ribeirão Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1193932",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 62.575 KM • São Paulo Gastão Vidigal, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1180666",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 78.011 KM • Bauru, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1218587",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 60.778 KM • Campinas Itapura, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1182161",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 72.758 KM • Auto Shopping Bandeirantes, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1180705",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 70.288 KM • Rio de Janeiro Intendente Magalhães, RJ",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1180540",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 84.416 KM • São Bernardo Pereira Barreto, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1193533",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 71.591 KM • Campinas Amoreiras, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1199340",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 52.520 KM • Campinas Shopping Dom Pedro, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1180464",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 69.396 KM • Campinas Itapura, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1164768",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 62.992 KM • Rio de Janeiro Campo Grande, RJ",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/932447",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2023/2023 • 21.670 KM • São Paulo Vila Carrão, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Volkswagen/Saveiro/968640",
+        "title": "Volkswagen Saveiro",
+        "version": "Robust 1.6 Total Flex 16v",
+        "details": "2023/2023 • 54.415 KM • Auto Shopping Lauro de Freitas, BA",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1195943",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 54.424 KM • São Bernardo Pereira Barreto, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Fiat/Mobi/1114453",
+        "title": "Fiat Mobi",
+        "version": "Trekking 1.0 Flex 5p.",
+        "details": "2024/2025 • 34.074 KM • Blumenau, SC",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Fiat/Mobi/1256894",
+        "title": "Fiat Mobi",
+        "version": "Trekking 1.0 Flex 5p.",
+        "details": "2025/2025 • 18.582 KM • Osasco, SP",
+        "old_price": null,
+        "new_price": "R$ 70.500",
+        "parcela": "Entrada + parcelas a partir de R$ 1.044*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1194025",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 65.634 KM • Belo Horizonte Raja, MG",
+        "old_price": null,
+        "new_price": "R$ 70.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.045*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1230649",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 68.983 KM • Auto Shopping Show Auto Mall, MG",
+        "old_price": null,
+        "new_price": "R$ 70.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.045*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Hyundai/Hb20/1094908",
+        "title": "Hyundai Hb20",
+        "version": "Sense Plus 1.0 Flex 12v Mec.",
+        "details": "2024/2024 • 56.662 KM • Contagem Babita Camargo, MG",
+        "old_price": null,
+        "new_price": "R$ 70.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.045*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1043033",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2023/2024 • 72.887 KM • Auto Shopping Tamboré, SP",
+        "old_price": null,
+        "new_price": "R$ 70.600",
+        "parcela": "Entrada + parcelas a partir de R$ 1.045*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Fiat/Argo/967171",
+        "title": "Fiat Argo",
+        "version": "1.0 6v Flex",
+        "details": "2023/2024 • 22.285 KM • Rio de Janeiro Recreio dos Bandeirantes, RJ",
+        "old_price": null,
+        "new_price": "R$ 70.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.047*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Volkswagen/Saveiro/968696",
+        "title": "Volkswagen Saveiro",
+        "version": "Robust 1.6 Total Flex 16v",
+        "details": "2023/2023 • 59.980 KM • Curitiba Floriano, PR",
+        "old_price": null,
+        "new_price": "R$ 70.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.047*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Fiat/Argo/1088523",
+        "title": "Fiat Argo",
+        "version": "1.0 6v Flex",
+        "details": "2024/2024 • 22.371 KM • Recife Imbiribeira, PE",
+        "old_price": null,
+        "new_price": "R$ 70.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.047*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1193764",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 50.157 KM • Auto Shopping Portal, MG",
+        "old_price": null,
+        "new_price": "R$ 70.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.047*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Hyundai/Hb20/1146827",
+        "title": "Hyundai Hb20",
+        "version": "Sense Plus 1.0 Flex 12v Mec.",
+        "details": "2024/2025 • 70.381 KM • São Paulo Radial Leste, SP",
+        "old_price": null,
+        "new_price": "R$ 70.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.047*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Hyundai/Hb20/1147127",
+        "title": "Hyundai Hb20",
+        "version": "Sense Plus 1.0 Flex 12v Mec.",
+        "details": "2024/2025 • 61.940 KM • São José do Rio Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 70.700",
+        "parcela": "Entrada + parcelas a partir de R$ 1.047*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Peugeot/208/954411",
+        "title": "Peugeot 208",
+        "version": "Like 1.0 Flex 6v 5p Mec.",
+        "details": "2023/2024 • 47.739 KM • São Leopoldo, RS",
+        "old_price": null,
+        "new_price": "R$ 70.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.048*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1100273",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 75.401 KM • Betim, MG",
+        "old_price": null,
+        "new_price": "R$ 70.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.048*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Citroen/C3/1040326",
+        "title": "Citroen C3",
+        "version": "Live Pack 1.0 Flex 6v 5p Mec.",
+        "details": "2023/2024 • 28.850 KM • Feira de Santana, BA",
+        "old_price": null,
+        "new_price": "R$ 70.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.048*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Pickup/Volkswagen/Saveiro/969383",
+        "title": "Volkswagen Saveiro",
+        "version": "Robust 1.6 Total Flex 16v",
+        "details": "2023/2023 • 40.641 KM • Goiânia Mutirão, GO",
+        "old_price": null,
+        "new_price": "R$ 70.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.048*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Citroen/C3/1036001",
+        "title": "Citroen C3",
+        "version": "Live Pack 1.0 Flex 6v 5p Mec.",
+        "details": "2023/2024 • 39.638 KM • Campinas Amoreiras, SP",
+        "old_price": null,
+        "new_price": "R$ 70.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.048*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Fiat/Argo/1113421",
+        "title": "Fiat Argo",
+        "version": "1.0 6v Flex",
+        "details": "2024/2025 • 73.153 KM • Contagem Babita Camargo, MG",
+        "old_price": null,
+        "new_price": "R$ 70.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.048*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Citroen/C3/1098894",
+        "title": "Citroen C3",
+        "version": "Live Pack 1.0 Flex 6v 5p Mec.",
+        "details": "2024/2024 • 33.066 KM • São José do Rio Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 70.800",
+        "parcela": "Entrada + parcelas a partir de R$ 1.048*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1103459",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 66.428 KM • São Paulo Miguel Estefano, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1104976",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 89.772 KM • Piracicaba, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1193734",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 63.447 KM • Goiânia Mutirão, GO",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1020966",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2023/2024 • 76.834 KM • Auto Shopping Taubaté, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1105484",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 81.700 KM • Jundiaí, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1180605",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 42.627 KM • Rio de Janeiro Vila Valqueire, RJ",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1071162",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 63.422 KM • São Paulo Itaim Paulista, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1104525",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 82.147 KM • Ribeirão Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1099535",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 75.245 KM • Auto Shopping São Gonçalo, RJ",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1193896",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 51.231 KM • Fortaleza, CE",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1100253",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 66.887 KM • Bauru, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1014668",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2023/2024 • 67.520 KM • Bauru, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1193643",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 60.012 KM • Goiânia Mutirão, GO",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1103766",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 72.458 KM • Auto Shopping Raposo, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1099888",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 81.796 KM • Nova Iguaçu, RJ",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1078672",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 83.895 KM • São Paulo Penha, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1105076",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 69.601 KM • Ribeirão Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1014901",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2023/2024 • 79.682 KM • Nova Iguaçu, RJ",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1105537",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 77.093 KM • Campinas Shopping Dom Pedro, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1193569",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 53.913 KM • Fortaleza Av. Santos Dumont, CE",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1100366",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 84.512 KM • Ribeirão Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1105188",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 61.469 KM • Osasco, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1015105",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2023/2024 • 64.106 KM • São Paulo Radial Leste, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1193529",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 56.513 KM • Fortaleza Av. Santos Dumont, CE",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1179998",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 64.153 KM • São José dos Pinhais, PR",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1103970",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 74.370 KM • Americana, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Fiat/Argo/907310",
+        "title": "Fiat Argo",
+        "version": "Drive 1.0 6v Flex",
+        "details": "2022/2023 • 27.895 KM • Vila Velha, ES",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/975269",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2023/2024 • 85.286 KM • Auto Shopping Tamboré, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1100133",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 72.575 KM • Campinas Orosimbo, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/998445",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2023/2024 • 74.759 KM • São Paulo São Miguel, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1105287",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 74.151 KM • Campinas Shopping Dom Pedro, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1079120",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 70.623 KM • Rio de Janeiro Av. das Américas, RJ",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1100640",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 73.650 KM • Guarulhos Timoteo Penteado, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1105352",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 61.159 KM • Rio de Janeiro Campo Grande, RJ",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1007729",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2023/2024 • 85.202 KM • Indaiatuba, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1105667",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 67.447 KM • Limeira, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Hyundai/Hb20/997534",
+        "title": "Hyundai Hb20",
+        "version": "Sense Plus 1.0 Flex 12v Mec.",
+        "details": "2023/2024 • 32.365 KM • Salvador Paralela, BA",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1105160",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 88.550 KM • Campinas Shopping Dom Pedro, SP",
+        "old_price": null,
+        "new_price": "R$ 70.900",
+        "parcela": "Entrada + parcelas a partir de R$ 1.050*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Chevrolet/Onix/1004161",
+        "title": "Chevrolet Onix",
+        "version": "Hatch 1.0 12v Flex 5p Mec.",
+        "details": "2023/2024 • 34.235 KM • Goiânia Mutirão, GO",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Chevrolet/Onix/1070248",
+        "title": "Chevrolet Onix",
+        "version": "Hatch 1.0 12v Flex 5p Mec.",
+        "details": "2024/2024 • 48.599 KM • Belo Horizonte Raja, MG",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Chevrolet/Onix/1051643",
+        "title": "Chevrolet Onix",
+        "version": "Hatch 1.0 12v Flex 5p Mec.",
+        "details": "2023/2024 • 40.665 KM • Belo Horizonte Cristiano Machado, MG",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Chevrolet/Onix/1045684",
+        "title": "Chevrolet Onix",
+        "version": "Hatch 1.0 12v Flex 5p Mec.",
+        "details": "2023/2024 • 47.681 KM • Belo Horizonte Cristiano Machado, MG",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Fiat/Argo/897283",
+        "title": "Fiat Argo",
+        "version": "Drive 1.0 6v Flex",
+        "details": "2022/2023 • 40.409 KM • Rio de Janeiro Av. das Américas, RJ",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Hyundai/Hb20/1146680",
+        "title": "Hyundai Hb20",
+        "version": "Sense Plus 1.0 Flex 12v Mec.",
+        "details": "2024/2025 • 50.427 KM • Belo Horizonte Raja, MG",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Fiat/Argo/1093440",
+        "title": "Fiat Argo",
+        "version": "Drive 1.0 6v Flex",
+        "details": "2024/2024 • 69.007 KM • São Paulo Penha, SP",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Chevrolet/Onix/1038437",
+        "title": "Chevrolet Onix",
+        "version": "Hatch 1.0 12v Flex 5p Mec.",
+        "details": "2023/2024 • 39.587 KM • Fortaleza Av. Santos Dumont, CE",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Fiat/Argo/1093879",
+        "title": "Fiat Argo",
+        "version": "Drive 1.0 6v Flex",
+        "details": "2024/2024 • 68.977 KM • São Paulo Itaim Paulista, SP",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Peugeot/208/1116642",
+        "title": "Peugeot 208",
+        "version": "Like 1.0 Flex 6v 5p Mec.",
+        "details": "2024/2024 • 63.349 KM • Maceió, AL",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Peugeot/208/1045448",
+        "title": "Peugeot 208",
+        "version": "Like 1.0 Flex 6v 5p Mec.",
+        "details": "2023/2024 • 61.689 KM • Campinas Shopping Dom Pedro, SP",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Hyundai/Hb20/981854",
+        "title": "Hyundai Hb20",
+        "version": "Sense Plus 1.0 Flex 12v Mec.",
+        "details": "2023/2024 • 32.785 KM • Rio de Janeiro Av. das Américas, RJ",
+        "old_price": null,
+        "new_price": "R$ 71.000",
+        "parcela": "Entrada + parcelas a partir de R$ 1.051*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Volkswagen/Polo/1068027",
+        "title": "Volkswagen Polo",
+        "version": "Track 1.0 Flex 12v 5p",
+        "details": "2024/2024 • 77.871 KM • Ribeirão Preto, SP",
+        "old_price": null,
+        "new_price": "R$ 71.100",
+        "parcela": "Entrada + parcelas a partir de R$ 1.053*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1194057",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 27.287 KM • Manaus, AM",
+        "old_price": null,
+        "new_price": "R$ 71.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.054*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1194071",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 63.026 KM • Americana, SP",
+        "old_price": null,
+        "new_price": "R$ 71.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.054*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1199433",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 67.400 KM • Osasco, SP",
+        "old_price": null,
+        "new_price": "R$ 71.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.054*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1164765",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 64.834 KM • Guarulhos Timoteo Penteado, SP",
+        "old_price": null,
+        "new_price": "R$ 71.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.054*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1180531",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 63.474 KM • Osasco, SP",
+        "old_price": null,
+        "new_price": "R$ 71.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.054*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1180488",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 64.660 KM • São Paulo Ermano Marchetti, SP",
+        "old_price": null,
+        "new_price": "R$ 71.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.054*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Hatch/Hyundai/Hb20/1091243",
+        "title": "Hyundai Hb20",
+        "version": "Sense Plus 1.0 Flex 12v Mec.",
+        "details": "2024/2024 • 47.500 KM • São Paulo Miguel Estefano, SP",
+        "old_price": null,
+        "new_price": "R$ 71.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.054*"
+    },
+    {
+        "link": "https://www.seminovosmovida.com.br/veiculo/detalhe/Sedan/Renault/Logan/1199383",
+        "title": "Renault Logan",
+        "version": "Zen Flex 1.0 12v 4p Mec.",
+        "details": "2024/2025 • 28.892 KM • Manaus, AM",
+        "old_price": null,
+        "new_price": "R$ 71.200",
+        "parcela": "Entrada + parcelas a partir de R$ 1.054*"
+    }
+]
